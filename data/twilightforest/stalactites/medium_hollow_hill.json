@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "stalactites": [
+    "twilightforest:gold_ore_raw_gold_block_stalactite",
+    "twilightforest:redstone_ore_stalactite",
+    "twilightmekanism:lead_ore_block_raw_lead_stalactite",
+    "twilightmekanism:osmium_ore_block_raw_osmium_stalactite",
+    "twilightmekanism:tin_ore_block_raw_tin_stalactite"
+  ]
+}

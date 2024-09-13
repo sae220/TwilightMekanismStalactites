@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    {
+      "block": "mekanism:uranium_ore",
+      "weight": 10
+    },
+    {
+      "block": "mekasnim:block_raw_uranium",
+      "weight": 1
+    }
+  ],
+  "max_length": 3,
+  "size_variation": 0.5,
+  "weight": 15
+}

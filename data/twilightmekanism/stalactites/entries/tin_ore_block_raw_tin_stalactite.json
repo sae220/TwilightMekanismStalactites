@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    {
+      "block": "mekanism:tin_ore",
+      "weight": 10
+    },
+    {
+      "block": "mekanism:block_raw_tin",
+      "weight": 1
+    }
+  ],
+  "max_length": 6,
+  "size_variation": 0.6,
+  "weight": 20
+}

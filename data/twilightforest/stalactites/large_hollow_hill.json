@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "stalactites": [
+    "twilightforest:diamond_ore_stalactite",
+    "twilightforest:emerald_ore_stalactite",
+    "twilightforest:lapis_ore_stalactite",
+    "twilightmekanism:fluorite_ore_stalactite",
+    "twilightmekanism:uranium_ore_block_raw_uranium_stalactite"
+  ]
+}
